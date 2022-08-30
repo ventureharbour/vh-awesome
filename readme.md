@@ -34,7 +34,11 @@ A list of things that Venture Harbour employees find awesome.
 
 - [Glyphy.](https://www.glyphy.io/) - Glyphy is a simple online tool that allows you to easily copy popular ASCII characters & other symbols.
 - [JSON crack](https://jsoncrack.com) - Seamlessly visualize your JSON data instantly into graphs.
+
+### Images
 - [SVG CROP](https://svgcrop.com) - Remove blank space from around any SVG instantly.
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) - optimize SVGs for performance.
+- [Squoosh](https://squoosh.app/) - optimize any image. 
 
 ## Contributing
 
